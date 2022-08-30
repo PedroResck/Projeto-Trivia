@@ -1,18 +1,17 @@
 # Projeto Trivia
-
 ## Este projeto foi feito em grupo durante o curso da Trybe.
 
 ### COLABORADORES:
 
-- José Carlos  
+- [José Carlos](https://github.com/kalarruda)  
 
-- Pedro Resck (eu)  
+- Pedro Resck (eu ✌️)  
 
-- Rafael Cardoso  
+- [Rafael Cardoso](https://github.com/rafaelcardosotrybetruma10a)  
 
-- Tiago Moreira  
+- [Tiago Moreira](https://github.com/Tiagu99)  
 
-- Ygor Saturnino  
+- [Ygor Saturnino](https://github.com/YgorSaturnino)  
 
 
 
