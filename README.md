@@ -1,6 +1,6 @@
 # Projeto Trivia  
 
-Este projeto foi desenvolvido durante o curso de Programação Web Fullstack da escola _Trybe_.  
+Este projeto foi desenvolvido durante o curso de Programação Web Fullstack da escola [_Trybe_](https://www.betrybe.com/?utm_source=trybe.com.br).  
   
   
   
