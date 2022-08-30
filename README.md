@@ -1,19 +1,24 @@
 # Projeto Trivia
 
-Este projeto foi feito em grupo durante o curso da Trybe.
+## Este projeto foi feito em grupo durante o curso da Trybe.
 
-COLABORADORES:
+### COLABORADORES:
 
-José Carlos
-Pedro Resck (eu)
-Rafael Cardoso
-Tiago Moreira
-Ygor Saturnino
+- José Carlos  
+
+- Pedro Resck (eu)  
+
+- Rafael Cardoso  
+
+- Tiago Moreira  
+
+- Ygor Saturnino  
 
 
-# Habilidades
 
-Nesse projeto, você será capaz de:
+## Habilidades
+
+Nesse projeto, nós fomos capazes de estudar e treinar como:
 
   - Criar um store Redux em aplicações React
 
@@ -25,22 +30,30 @@ Nesse projeto, você será capaz de:
 
   - Conectar Redux aos componentes React
 
-  - Criar actions assíncronas na sua aplicação React que faz uso de Redux.
+  - Criar actions assíncronas na sua aplicação React que faz uso de Redux.  
+  
+  
 
----
 
+## O que foi desenvolvido:
 
-## O que deverá ser desenvolvido
+Baseado no jogo **Trivia** _(tipo um Show do Milhão americano)_ desenvolvemos um jogo de perguntas e respostas, utilizando _React e Redux_.  
 
-Você deverá desenvolver um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano rs)_ utilizando _React e Redux_, desenvolvendo em grupo suas funcionalidades de acordo com as demanas definidas em um quadro _Kanban_. Confira o Slack para saber como acessar o quadro! Para viver um cenário mais próximo do mercado de trabalho, você deve fazer uma cópia desse quadro para utilizar com seu grupo. É de suma importância que o grupo se organize utilizando o quadro para maior eficiência e para que se minimizem os conflitos que a união de vários códigos trará. A partir dessas demandas, teremos uma aplicação onde a pessoa usuária poderá:
+Utilizando _Kanban_ determinamos as funcionalidades e demandas para realizar o projeto e assim tivemos a clareza de como iniciar e desenvolver o código do jogo.
+
+Para viver um cenário mais próximo do mercado de trabalho, realizamos DM's com horário marcado no dia anterior para discutir a situação de cada "trabalho" determinado a cada um dos integrantes, sendo possível designar momentos de ajuda (pair programming) e questionar como poderíamos reunir as idéias em prol da finalização do projeto de maneira rápida e eficiente. . 
+
+Ao utilizar a aplicação a pessoa usuária poderá:
 
   - Logar no jogo e, se o email tiver cadastro no site [Gravatar](https://pt.gravatar.com/), ter sua foto associada ao perfil de usuária.
-  - Acessar a página referente ao jogo, onde se deverá escolher uma das respostas disponíveis para cada uma das perguntas apresentadas. A resposta deve ser marcada antes do contador de tempo chegar a zero, caso contrário a resposta deverá ser considerada errada.
+  - Acessar a página referente ao jogo, onde se deverá escolher uma das respostas disponíveis para cada uma das perguntas apresentadas. A resposta deve ser marcada antes do contador de tempo chegar a zero, caso contrário a resposta será considerada errada.
   - Ser redirecionada, após 5 perguntas respondidas, para a tela de score, onde o texto mostrado depende do número de acertos.
   - Visualizar a página de ranking, se quiser, ao final de cada jogo.
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
-## Antes de começar a desenvolver:
+
+
+## Para ter a experiência de usuário do jogo:
 
 1. Clone o repositório
   * `git clone git@github.com:PedroResck/projeto-trivia.git`.
@@ -57,25 +70,4 @@ Você deverá desenvolver um jogo de perguntas e respostas baseado no jogo **Tri
 ### API utilizado do Trivia
 
 A [API do Trivia](https://opentdb.com/api_config.php).
-
-Primeiro, é necessário fazer um GET request para:
-
-```
-https://opentdb.com/api_token.php?command=request
-```
-
-Esse endpoint te retornará o token que vai ser utilizado nas requisições seguintes. A resposta dele será:
-
-```
-{
-   "response_code":0,
-   "response_message":"Token Generated Successfully!",
-   "token":"f00cb469ce38726ee00a7c6836761b0a4fb808181a125dcde6d50a9f3c9127b6"
-}
-```
-
-Para pegar as perguntas, você deve realizar um GET request para o seguinte endpoint:
-
-```
-https://opentdb.com/api.php?amount=${quantidade-de-perguntas-retornadas}&token=${seu-token-aqui}
 
