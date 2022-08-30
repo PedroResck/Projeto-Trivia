@@ -38,7 +38,7 @@ Baseado no jogo **Trivia** _(tipo um Show do Milhão americano)_ desenvolvemos u
 
 Utilizando _Kanban_ determinamos as funcionalidades e demandas para realizar o projeto e assim tivemos a clareza de como iniciar e desenvolver o código do jogo.
 
-Para viver um cenário mais próximo do mercado de trabalho, realizamos DM's com horário marcado no dia anterior para discutir a situação de cada "trabalho" determinado a cada um dos integrantes, sendo possível designar momentos de ajuda (pair programming) e questionar como poderíamos reunir as idéias em prol da finalização do projeto de maneira rápida e eficiente. . 
+Para viver um cenário mais próximo do mercado de trabalho, realizamos DM's com horário marcado no dia anterior para discutir a situação de cada "trabalho" determinado a cada um dos integrantes, sendo possível designar momentos de ajuda (pair programming) e questionar como poderíamos reunir as idéias em prol da finalização do projeto de maneira rápida e eficiente.  
 
 Ao utilizar a aplicação a pessoa usuária poderá:
 
