@@ -1,5 +1,23 @@
-# Projeto Trivia
-## Este projeto foi feito em grupo durante o curso da Trybe.
+# Projeto Trivia  
+
+Este projeto foi desenvolvido durante o curso de Programação Web Fullstack da escola _Trybe_.  
+  
+  
+  
+## Habilidades desenvolvidas
+
+ - Criar um store Redux em aplicações React
+
+ - Criar reducers no Redux em aplicações React
+
+ - Criar actions no Redux em aplicações React
+
+ - Criar dispatchers no Redux em aplicações React
+
+ - Conectar Redux aos componentes React
+
+ - Criar actions assíncronas na sua aplicação React que faz uso de Redux.  
+
 
 ### COLABORADORES:
 
@@ -12,28 +30,8 @@
 - [Tiago Moreira](https://github.com/Tiagu99)  
 
 - [Ygor Saturnino](https://github.com/YgorSaturnino)  
-
-
-
-## Habilidades
-
-Nesse projeto, nós fomos capazes de estudar e treinar como:
-
-  - Criar um store Redux em aplicações React
-
-  - Criar reducers no Redux em aplicações React
-
-  - Criar actions no Redux em aplicações React
-
-  - Criar dispatchers no Redux em aplicações React
-
-  - Conectar Redux aos componentes React
-
-  - Criar actions assíncronas na sua aplicação React que faz uso de Redux.  
   
   
-
-
 ## O que foi desenvolvido:
 
 Baseado no jogo **Trivia** _(tipo um Show do Milhão americano)_ desenvolvemos um jogo de perguntas e respostas, utilizando _React e Redux_.  
@@ -52,7 +50,7 @@ Ao utilizar a aplicação a pessoa usuária poderá:
 
 
 
-## Para ter a experiência de usuário do jogo:
+## Para ter experiência de usuário do jogo:
 
 1. Clone o repositório
   * `git clone git@github.com:PedroResck/projeto-trivia.git`.
@@ -63,10 +61,11 @@ Ao utilizar a aplicação a pessoa usuária poderá:
   * Instale as dependências:
     * `npm install`
   * Inicialize o projeto:
-    * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
+    * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)  
+      
+3. Se divirta 🎮 
 
+### API do Trivia (utilizado no projeto)
 
-### API utilizado do Trivia
-
-A [API do Trivia](https://opentdb.com/api_config.php).
+[Trivia API](https://opentdb.com/api_config.php).
 
