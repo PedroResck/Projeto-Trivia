@@ -5,10 +5,14 @@ Este projeto foi feito em grupo durante o curso **Desenvolvedor Web Full-stack**
 
 ## COLABORADORES:
 
-[José Carlos](https://github.com/kalarruda)<br> 
-**Pedro Resck (eu ✌️)**<br>  
-[Rafael Cardoso](https://github.com/rafaelcardosotrybetruma10a)<br>  
-[Tiago Moreira](https://github.com/Tiagu99)<br>  
+[José Carlos](https://github.com/kalarruda)<br>
+
+**Pedro Resck (eu ✌️)**<br>
+
+[Rafael Cardoso](https://github.com/rafaelcardosotrybetruma10a)<br>
+
+[Tiago Moreira](https://github.com/Tiagu99)<br> 
+
 [Ygor Saturnino](https://github.com/YgorSaturnino)<br> 
 
 
