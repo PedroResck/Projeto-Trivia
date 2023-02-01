@@ -61,15 +61,16 @@ Fazendo esse projeto eu tive a oportunidade de:
 ## :video_game: Para os interessados em jogar Trivia :video_game:
 
 1. Clone o repositório
-  * `git clone git@github.com:PedroResck/projeto-trivia.git`.
-  * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-projeto-trivia`
+   `git clone git@github.com:PedroResck/projeto-trivia.git`
+   
+ 2. Entre na pasta do repositório que você acabou de clonar:
+     `cd sd-projeto-trivia`
   
-2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
-    * `npm install`
-  * Inicialize o projeto:
-    * `npm start` 
+3. Instale as dependências e inicialize o projeto
+   `npm install`
+   
+4. Inicialize o projeto:
+    `npm start` 
 
 
 ## API utilizada do Trivia
