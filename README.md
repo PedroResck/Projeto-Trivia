@@ -1,6 +1,6 @@
 # PROJETO TRIVIA 
 
-Este projeto foi feito em grupo durante o curso **Desenvolvedor Web Full-stack** na <a href="https://www.betrybe.com/?utm_source=trybe.com.br">Trybe</a> <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px">
+Este projeto foi feito em grupo durante o curso **Desenvolvedor Web Full-stack** na <a href="https://www.betrybe.com/?utm_source=trybe.com.br">Trybe</a> 
 
 
 ## COLABORADORES:
